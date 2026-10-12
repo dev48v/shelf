@@ -1,0 +1,2 @@
+Idea: a small thing that watches a folder and tells you what is in it.
+Probably exists already. Look into it at some point.
